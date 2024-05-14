@@ -1,0 +1,44 @@
+.imgfooter{
+    height: 3rem;
+    width: 10rem;
+    padding-bottom: 8px;
+}
+
+.imglogo{
+    height: 10rem;
+    width: 16rem;
+}
+.fundo{
+    background-image: url("../IMAGENS.MCLAREN/imagem fundo race.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.navaltura{
+    height: 90px;
+}
+
+.imgnav{
+    height: 5rem;
+    width: 8rem;
+    padding-right: 10px;
+}
+
+.botaomenu{
+    padding-left: 10px;
+}
+
+.alturapinicial{
+    height: auto;
+    width: 100%;
+}
+
+.margemform{
+    margin-bottom: 50px;
+    margin-top: 250px;
+}
+
+.textosmclaren{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
